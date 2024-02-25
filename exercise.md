@@ -16,6 +16,6 @@ I denne oppgaven skal vi se på stigespillet i enkel one player-versjon. Dere sk
 
 6. Bytt ut de seks knappene med en knapp for å kaste en terning. Vis riktig terning på enkelt vis, for eksempel ved å bruke unicode: 
 
-  # ⚀⚁⚂⚃⚄⚅
+  ## ⚀⚁⚂⚃⚄⚅
 
 7. Kjenn igjen om brukeren har fullført spillet. Vis en melding hvis spillet er ferdig og tilby muligheten til å starte på nytt. 
