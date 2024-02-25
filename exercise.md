@@ -1,6 +1,6 @@
 I denne oppgaven skal vi se på stigespillet i enkel one player-versjon. Dere skal ikke nødvendigvis lage alt ferdig, og hvert team velger hvor langt dere vil gå. Jeg tenker: bruk maks. 2 timer på dette. Men bruk mer om dere finner det gøy og lærerikt.
 
-[fuzzbin.github.io/skolekoden/_images/stigespill_brett.png](https://fuzzbin.github.io/skolekoden/_images/stigespill_brett.png)
+![](https://fuzzbin.github.io/skolekoden/_images/stigespill_brett.png)
 
 1. Lag en funksjon createRow som returnerer 9 div-er med et tall inne i hver rute. Funksjonen skal ta en parameter startValue som skal vises i den første ruten, samt en parameter til, change. Denne er enten +1 eller -1 og styrer om de følgende rutene får større eller mindre tall enn startruten. 
 
